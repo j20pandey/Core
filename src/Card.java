@@ -6,4 +6,8 @@ public class Card {
 
 	private String userAddress;
 
+	public String str (){
+	return str;
+	}
+
 }
